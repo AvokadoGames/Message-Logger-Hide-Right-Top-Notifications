@@ -8,7 +8,7 @@
  * @website https://bartucivas.com.tr/
 */
 
-@import url("https://discordstyles.github.io/Message-Logger-Hide-Right-Top-Notifications/MessageLoggerHideRightTopNotifications.theme.css");
+@import url("https://raw.githubusercontent.com/CivasEntertainment/Message-Logger-Hide-Right-Top-Notifications/main/MessageLoggerHideRightTopNotifications.theme.css");
 
 .xenoLib-notification-content {
 	display: none;
